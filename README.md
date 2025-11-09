@@ -15,5 +15,6 @@ A simple Python project demonstrating basic image processing:
    ```bash
    pip install Pillow numpy matplotlib
 3. Run the script:
+   ```bash
    python main.py
    
