@@ -13,7 +13,9 @@ A simple Python project demonstrating basic image processing:
 1. Make sure the image `plane.jpg` is in the same folder as `task1.py`.  
 2. Install the required libraries if not already installed:
    ```bash
-   pip install Pillow numpy matplotlib
+   python -m pip install --upgrade pip
+   python -m pip install --user Pillow numpy matplotlib
+
 3. Run the script:
    ```bash
    python task1.py
